@@ -1,0 +1,10 @@
+C:\Users\Ksusha\Source\Repos\LFSR\LFSR\bin\Debug\LFSR.exe.config
+C:\Users\Ksusha\Source\Repos\LFSR\LFSR\bin\Debug\LFSR.exe
+C:\Users\Ksusha\Source\Repos\LFSR\LFSR\bin\Debug\LFSR.pdb
+C:\Users\Ksusha\Source\Repos\LFSR\LFSR\obj\Debug\LFSR.csprojAssemblyReference.cache
+C:\Users\Ksusha\Source\Repos\LFSR\LFSR\obj\Debug\LFSR.Form1.resources
+C:\Users\Ksusha\Source\Repos\LFSR\LFSR\obj\Debug\LFSR.Properties.Resources.resources
+C:\Users\Ksusha\Source\Repos\LFSR\LFSR\obj\Debug\LFSR.csproj.GenerateResource.cache
+C:\Users\Ksusha\Source\Repos\LFSR\LFSR\obj\Debug\LFSR.csproj.CoreCompileInputs.cache
+C:\Users\Ksusha\Source\Repos\LFSR\LFSR\obj\Debug\LFSR.exe
+C:\Users\Ksusha\Source\Repos\LFSR\LFSR\obj\Debug\LFSR.pdb
